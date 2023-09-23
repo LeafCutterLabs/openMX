@@ -3,6 +3,7 @@ Open source Cherry MX based 24mm hole arcade button:
 ![](media/unassembled.HEIC)
 ![](media/side.HEIC)
 ![](media/bottom.HEIC)
+![](media/wrench.HEIC)
 Designed for 22-30mm caps. 26mm design is included in the files. Injection molded version will be available at leafcutterlabs.com in early October.
 ![](media/captop.HEIC)
 ![](media/capbottom.HEIC)
