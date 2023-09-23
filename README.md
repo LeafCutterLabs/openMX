@@ -10,4 +10,4 @@ From left to right Aliexpress 24mm, MJF printed 26mm (included in repo), Sinocad
 ![](media/captop.jpg)
 ![](media/capside.jpg)
 The MJF printed and LeafCutterLabs Injection are signifigantly thicker (1.6mm) to give a more substantial feel.
-![](media/capbottom.jpg)
+![](media/capbot.jpg)
