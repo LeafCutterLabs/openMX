@@ -1,8 +1,7 @@
 Open source Cherry MX based 24mm hole arcade button:
-![](media/unassembled.HEIC)
-![](media/side.HEIC)
-![](media/three4.HEIC)
-![](media/bottom.HEIC)
+![](media/preassembled.jpg)
+![](media/side.jpg)
+![](media/bottom.jpg)
 The PCB gerber is included but not confirmed to work, and update will occur once the boards are recieved.
 ![](media/wrench.HEIC)
 Designed for 22-30mm caps. 26mm design is included in the files. Injection molded version will be available at leafcutterlabs.com in early October. <br>
