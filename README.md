@@ -1,5 +1,5 @@
 Open source Cherry MX based 24mm hole arcade button:
-![](media/preassembled.jpg)
+![](media/preassemble.jpg)
 ![](media/side.jpg)
 ![](media/bottom.jpg)
 The PCB gerber is included and confirmed to work.
